@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root xmlns:cq="Datawords Datawords " xmlns:jcr="Datawords Datawords " xmlns:nt="Datawords Datawords " xmlns:sling="Datawords Datawords Datawords " path="Datawords " profileType="Datawords " targetLang="Datawords ">
+	<userguide-ii>
+		<jcr:content sling:resourceType="Datawords Datawords ">
+			<par sling:resourceType="Datawords ">
+				<userguide glossaryTitle="Datawords " introChapterTitle="Datawords " sling:resourceType="Datawords Datawords Datawords " toLocalize="Datawords "/>
+			</par>
+			<image/>
+			<og_image/>
+		</jcr:content>
+	</userguide-ii>
+</root>
